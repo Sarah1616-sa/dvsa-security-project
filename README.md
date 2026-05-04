@@ -47,6 +47,12 @@ Each vulnerability folder contains:
 * `fix/`  remediation details and code/configuration changes
 * `evidence/`  proof before and after remediation
 
+## Project Slides
+
+* [PowerPoint Presentation](slides/ICS344_project.pptx)
+* [PDF Preview](slides/ICS344_project.pdf)
+* [Slide Image Previews](slides/preview/)
+
 ## Documentation Method
 
 For each assigned vulnerability, the documentation follows a consistent structure:
